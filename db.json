@@ -1,0 +1,41 @@
+{
+  "progress": [
+    {
+      "id": 1,
+      "product": "Moisturizer Dr. Althea",
+      "note": "Jerawat berkurang setelah menggunakan produk ini."
+    },
+    {
+      "id": 2,
+      "product": "Serum Loreal",
+      "note": "Sedikit tingling di awal, tapi hasilnya bagus!"
+    }
+  ],
+  "exfoliation": [
+    {
+      "id": 1,
+      "day": "Rabu",
+      "product": "Chemical Exfoliation"
+    },
+    {
+      "id": 2,
+      "day": "Sabtu",
+      "product": "Physical Exfoliation"
+    }
+  ],
+  "mask": [
+    { "id": 1, "day": "Senin", "product": "Clay Mask" },
+    { "id": 2, "day": "Kamis", "product": "Sheet Mask" },
+    { "id": 3, "day": "Minggu", "product": "Gel Mask" }
+  ],
+  "routine": [
+    { "id": 1, "nama": "Facial Wash", "waktu": "pagi" },
+    { "id": 2, "nama": "Serum", "waktu": "pagi" },
+    { "id": 3, "nama": "Sunscreen", "waktu": "pagi" },
+    { "id": 4, "nama": "Cleansing Oil", "waktu": "malam" },
+    { "id": 5, "nama": "Facial Wash", "waktu": "malam" },
+    { "id": 6, "nama": "Toner", "waktu": "malam" },
+    { "id": 7, "nama": "Serum", "waktu": "malam" },
+    { "id": 8, "nama": "Moisturizer", "waktu": "malam" }
+  ]
+}
